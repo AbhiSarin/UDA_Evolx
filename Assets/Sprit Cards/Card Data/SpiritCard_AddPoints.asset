@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 367fdccfde2f249419d7a72c6ea92a98, type: 3}
+  m_Name: SpiritCard_AddPoints
+  m_EditorClassIdentifier: 
+  cardName: Bonus Points
+  cardType: 1
+  triggerDiceValue: 3
+  value: 10
+  clip: {fileID: 8300000, guid: 668620113e9d6dc4483ba3d8dbae9fcf, type: 3}
+  description: 'Triggers when Dice rolls a 3.
+
+    It adds 10 points to the total.'
